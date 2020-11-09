@@ -1,0 +1,5 @@
+$ cat .gitignore
+# exclude everything except directory foo/bar
+/venv/*
+/.idea/*
+/.DS_Store
