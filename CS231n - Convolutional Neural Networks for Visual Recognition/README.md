@@ -6,9 +6,12 @@ Previously, I have completed several Machine Learning / Deep Learning  courses o
 
 Here is the course outline:
 
-0. Module 0: Preparation
-  - Software Setup
-  - Python / Numpy Tutorial
-  - Google Cloud Tutorial
-1. Module 1: Neural Networks
-2. Module 2: Convolutional Neural Networks
+**Module 0: Preparation:**
+- Software Setup
+- Python / Numpy Tutorial
+- Google Cloud Tutorial
+
+**Module 1: Neural Networks:**
+- Image Classification: Data-Driven Approach, k-Nearest Neighbor, Train/Val/Test Splits
+
+**Module 2: Convolutional Neural Networks**
