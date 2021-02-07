@@ -5,6 +5,7 @@ The details of the Stanford CS class **CS231n: Convolutional Neural Networks for
 Previously, I have completed several Machine Learning / Deep Learning  courses on Coursera.com. Taking this class will help me to get better what I have already learned.
 
 Here is the course outline:
+
 0. Module 0: Preparation
   - Software Setup
   - Python / Numpy Tutorial
