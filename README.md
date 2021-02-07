@@ -1,1 +1,3 @@
 # deep_learning
+
+Path to Deep Learning adventure ...
