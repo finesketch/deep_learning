@@ -4,7 +4,7 @@ The details of the Stanford CS class **CS231n: Convolutional Neural Networks for
 
 Previously, I have completed several Machine Learning / Deep Learning  courses on Coursera.com. Taking this class will help me to get better what I have already learned.
 
-Here is the course outline:
+Here is the course **CS231n** outline:
 
 **Module 0: Preparation:**
 - Software Setup
@@ -13,5 +13,15 @@ Here is the course outline:
 
 **Module 1: Neural Networks:**
 - Image Classification: Data-Driven Approach, k-Nearest Neighbor, Train/Val/Test Splits
+- Linear Classification: Support Vector Machine, Softmax
+- Optimization: Stochastic Gradient Descent
+- Backpropagation, Intuitions
+- Neutral Networks Part 1: Setting up the Architecture
+- Neutral Networks Part 2: Setting up the Data and the Loss
+- Neutral Networks Part 3: Learning and Evaluation
+- Putting it all Together: Minimal Neural Network Case Study
 
 **Module 2: Convolutional Neural Networks**
+- Convolutional Neural Networks: Architectures, Convolution / Pooling Layers
+- Understanding and Visualizing Convolutional Neural Networks
+- Transfer Learning and Fine-Tuning Convolutional Neural Networks
