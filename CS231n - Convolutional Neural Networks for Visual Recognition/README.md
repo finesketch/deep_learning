@@ -25,3 +25,5 @@ Here is the course **CS231n** outline:
 - Convolutional Neural Networks: Architectures, Convolution / Pooling Layers
 - Understanding and Visualizing Convolutional Neural Networks
 - Transfer Learning and Fine-Tuning Convolutional Neural Networks
+
+As you reading the description of this **CS231n** course online https://cs231n.github.io, much of the background and materials were taken from ImageNet Challenge, http://image-net.org/challenges/LSVRC/2014/index.
