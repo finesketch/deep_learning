@@ -27,3 +27,5 @@ Here is the course **CS231n** outline:
 - Transfer Learning and Fine-Tuning Convolutional Neural Networks
 
 As you reading the description of this **CS231n** course online https://cs231n.github.io, much of the background and materials were taken from ImageNet Challenge, http://image-net.org/challenges/LSVRC/2014/index.
+
+The repo for this course is at https://github.com/cs231n/cs231n.github.io.
