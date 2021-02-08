@@ -7,9 +7,9 @@ Previously, I have completed several Machine Learning / Deep Learning  courses o
 Here is the course **CS231n** outline:
 
 **Module 0: Preparation:**
-- Software Setup
+- [Software Setup](https://cs231n.github.io/setup-instructions/)
 - Python / Numpy Tutorial
-- Google Cloud Tutorial
+- [Google Cloud Tutorial](https://github.com/cs231n/gcloud)
 
 **Module 1: Neural Networks:**
 - Image Classification: Data-Driven Approach, k-Nearest Neighbor, Train/Val/Test Splits
