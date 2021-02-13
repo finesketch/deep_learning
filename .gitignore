@@ -3,4 +3,4 @@ $ cat .gitignore
 /venv/*
 /plaidml-venv/*
 /.idea/*
-/.DS_Store
+**/.DS_Store
